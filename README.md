@@ -6,4 +6,4 @@ Kruskal's algorithm to sort an algorithm assignment that goes something like:
 
 Fairies exists, and are free; Find the cheapest way to connect all the islands.
 
-We could have used Prim's or Kruskal. But listening on the water-pipes; The dataset is not very edge-dense, and we decided to opt for Kruskal, seeing this is done in Java - and therefore not very CPU effective.
+We could have used Prim's or Kruskal. But listening on the water-pipes; The dataset is not very edge-dense, and I decided to opt for Kruskal, seeing this is done in Java - and therefore not very CPU effective.
